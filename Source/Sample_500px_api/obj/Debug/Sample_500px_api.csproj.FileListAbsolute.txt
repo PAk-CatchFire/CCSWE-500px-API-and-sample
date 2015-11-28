@@ -1,0 +1,28 @@
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\bin\Debug\Sample_500px_api.exe.config
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\bin\Debug\Sample_500px_api.exe
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\bin\Debug\Sample_500px_api.pdb
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\bin\Debug\CCSWE.500px.Api.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\bin\Debug\CCSWE.500px.Api.pdb
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\bin\Debug\CCSWE.500px.Api.xml
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\obj\Debug\Sample_500px_api.Form1.resources
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\obj\Debug\Sample_500px_api.Properties.Resources.resources
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\obj\Debug\Sample_500px_api.csproj.GenerateResource.Cache
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\obj\Debug\Sample_500px_api.exe
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\obj\Debug\Sample_500px_api.pdb
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Sample_500px_api\obj\Debug\Sample_500px_api.csprojResolveAssemblyReference.cache
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\bin\Debug\Sample_500px_api.exe.config
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\obj\Debug\Sample_500px_api.exe
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\obj\Debug\Sample_500px_api.pdb
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\bin\Debug\Sample_500px_api.exe
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\bin\Debug\Sample_500px_api.pdb
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\bin\Debug\CCSWE.500px.Api.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\bin\Debug\CCSWE.500px.Api.pdb
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\bin\Debug\CCSWE.500px.Api.xml
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\obj\Debug\Sample_500px_api.csprojResolveAssemblyReference.cache
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\obj\Debug\Sample_500px_api.Form1.resources
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\obj\Debug\Sample_500px_api.Properties.Resources.resources
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Sample_500px_api\obj\Debug\Sample_500px_api.csproj.GenerateResource.Cache

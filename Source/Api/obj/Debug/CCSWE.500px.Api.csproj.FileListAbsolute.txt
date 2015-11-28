@@ -1,0 +1,16 @@
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Api\bin\Debug\CCSWE.500px.Api.XML
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Api\bin\Debug\CCSWE.500px.Api.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Api\bin\Debug\CCSWE.500px.Api.pdb
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Api\obj\Debug\CCSWE.500px.Api.csprojResolveAssemblyReference.cache
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Api\obj\Debug\CCSWE.500px.Api.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-master\Source\Api\obj\Debug\CCSWE.500px.Api.pdb
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Api\bin\Debug\CCSWE.500px.Api.XML
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Api\bin\Debug\CCSWE.500px.Api.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Api\bin\Debug\CCSWE.500px.Api.pdb
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Api\obj\Debug\CCSWE.500px.Api.csprojResolveAssemblyReference.cache
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Api\obj\Debug\CCSWE.500px.Api.dll
+C:\Users\frasalyu\Documents\Visual Studio 2015\Projects\CCSWE-500px-API-and sample\Source\Api\obj\Debug\CCSWE.500px.Api.pdb

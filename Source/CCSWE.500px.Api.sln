@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCSWE.500px.Api", "Api\CCSWE.500px.Api.csproj", "{02602A9D-036F-45D7-9483-855F291F614B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{35574A6C-DC84-47D4-A44D-240FA21C8FDA}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample_500px_api", "Sample_500px_api\Sample_500px_api.csproj", "{C26A76C6-E8D3-4EBD-865A-D3D2C76EEC2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02602A9D-036F-45D7-9483-855F291F614B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02602A9D-036F-45D7-9483-855F291F614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02602A9D-036F-45D7-9483-855F291F614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02602A9D-036F-45D7-9483-855F291F614B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26A76C6-E8D3-4EBD-865A-D3D2C76EEC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26A76C6-E8D3-4EBD-865A-D3D2C76EEC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26A76C6-E8D3-4EBD-865A-D3D2C76EEC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26A76C6-E8D3-4EBD-865A-D3D2C76EEC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
